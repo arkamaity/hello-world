@@ -1,0 +1,17 @@
+/*body {
+    color: #000000;
+}
+.navbar , .top-header {
+	background-color:#ffeb00;
+    display: block!important;
+    height: auto!important;
+    padding-bottom: 0;
+	overflow: visible!important;
+}
+.navbar-brand{
+	font-weight: bold;
+	color:#000000;
+}*/
+.navbar, .navbar-expand-md, .bg-dark, .navbar-dark{
+	background-color#558bb1!important;
+}
